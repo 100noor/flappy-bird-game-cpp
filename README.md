@@ -1,1 +1,1 @@
-A Flappy Bird clone developed in C++ as a semester project.
+## C++ implementation of Flappy Bird featuring file handling, exception handling, score tracking, and object-oriented design."
